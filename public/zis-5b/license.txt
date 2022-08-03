@@ -1,0 +1,11 @@
+Model Information:
+* title:	ZiS-5B
+* source:	https://sketchfab.com/3d-models/zis-5b-c42598c6810249c3b5c348bdc2292d33
+* author:	tnnv (https://sketchfab.com/tnnv)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ZiS-5B" (https://sketchfab.com/3d-models/zis-5b-c42598c6810249c3b5c348bdc2292d33) by tnnv (https://sketchfab.com/tnnv) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
